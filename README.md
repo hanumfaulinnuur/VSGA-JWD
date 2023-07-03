@@ -1,2 +1,2 @@
 # VSGA-JWD
-hasil project vsga 2023
+Latihan VSGA skema jwd 2023
