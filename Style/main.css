@@ -1,0 +1,16 @@
+
+/* untuk mengsyle class iniclas */
+    .iniclas {
+        /* untuk warna teks yang digunakan */
+        color: #0000;
+        /* untuk bg */
+        background: url("../Image/HANUM.png");
+    }
+
+
+/* mengstyle sub class dari iniclass */
+    .iniclas .subclas {
+        color: aliceblue;
+    }
+
+
