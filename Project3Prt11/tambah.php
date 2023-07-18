@@ -12,22 +12,22 @@
             <table>
                 <tr>
                     <td><label for="no">No</label></td>
-                    <td><input type="number" size="15" name="no"></td>
+                    <td><input type="number" size="15" name="no" required></td>
                   </tr>
     
                   <tr>
                     <td><label for="merek">Nama Merek</label></td>
-                    <td><input type="text" size="35" name="merek"></td>
+                    <td><input type="text" size="35" name="merek" required></td>
                   </tr>
 
                   <tr>
                     <td><label for="warna">Warna</label></td>
-                    <td><input type="text" size="50" name="warna"></td>
+                    <td><input type="text" size="50" name="warna" required></td>
                   </tr>
 
                   <tr>
                     <td><label for="jumlah">Jumlah</label></td>
-                    <td><input type="number" size="20" name="jumlah"></td>
+                    <td><input type="number" size="20" name="jumlah" required></td>
                   </tr>
 
                   <tr><td><button type="submit" value="simpan">Simpan</button></td></tr>
