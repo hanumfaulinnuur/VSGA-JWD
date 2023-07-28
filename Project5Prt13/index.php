@@ -6,7 +6,6 @@
     <title>Halaman Utama</title>
 </head>
 <body>
-    
     <h3>Pendaftaran Siswa Baru</h3>
     <h1>Digital Talent</h1>
 
@@ -15,6 +14,5 @@
         <li><a href="form_daftar.php">Daftar Baru</a></li>
         <li><a href="list_siswa.php">Pendaftar</a></li>
     </ul>
-
 </body>
 </html>

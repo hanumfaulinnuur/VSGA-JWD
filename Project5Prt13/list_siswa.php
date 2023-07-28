@@ -52,7 +52,6 @@ Total = <?php echo ($jumlah)?>
 </html>
 
 
-
 <?php
 
 mysqli_close($conn);

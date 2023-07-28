@@ -11,6 +11,4 @@ header("location:list_siswa.php?status=sukses");
 
 
 mysqli_close($conn);
-
-
 ?>

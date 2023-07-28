@@ -79,6 +79,7 @@ function is_checked($value, $input)
     </form>
   </div>
 </body>
+
 <?php
 
 mysqli_close($conn);
